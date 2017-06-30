@@ -1,0 +1,21 @@
+$ git clone some-url (a repository on github)
+$ git status (shows: grocery.html)
+$ git adds grocery.html (newly created in our local repository)
+or
+$ git add -A (adds all files that have been changed)
+
+$ git status (shows: new file grocery.html)
+$ git commit -m "I added a grocery list html file" (a comment)
+$ git push (copies local repository to same repository on github)
+
+$ git pull (pulls all the latest changes to the repository)
+# more changes to grocery.html
+$ git status (shows: grocery.html)
+$ git add -A 
+$ git status (shows: new file grocery.html)
+$ git commit -m "I added cookie and changed milk"
+$ git push (copies local repository to same repository on github)
+
+$ git (showes all git commands)
+
+
