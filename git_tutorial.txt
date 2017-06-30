@@ -18,4 +18,11 @@ $ git push (copies local repository to same repository on github)
 
 $ git (showes all git commands)
 
+$ git checkout -b my-new-branch (to create a new branch called my-new-branch)
+$ git branch (to confirm that branch was created)
+$ git push origin my-new-branch (push changes to new branch on github)
+
+
+
+
 
